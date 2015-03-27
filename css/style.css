@@ -255,7 +255,7 @@
 			
 			ul.actions
 			{
-				padding-top: 1em;
+				padding-top: 5em;
 			}
 			
 				ul.actions.major
@@ -485,9 +485,9 @@
 			color: inherit;
 			background: none;
 			text-decoration: none;
-			border: solid 1px #c2c7cc;
+			border: solid 1px #AAAAAA;
 			border-radius: 0.35em;
-			padding: 0.8em 2em 0.8em 2em;
+			padding: 0.6em 1.6em;
 			cursor: pointer;
 			outline: 0;
 			-moz-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
@@ -815,7 +815,7 @@
 		{
 			background: #fff;
 			border-color: rgba(255,255,255,0);
-			color: #f08c89;
+			color: #289169;
 			font-size: 1.25em;
 		}
 
@@ -936,3 +936,8 @@
 		padding-top: 4em;
 		margin-top: 6em;
 	}
+
+video
+{
+    width: 100%;
+}
