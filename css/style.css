@@ -268,11 +268,6 @@
 					display: inline-block;
 					margin-left: 1em;
 				}
-				
-					ul.actions li:first-child
-					{
-						margin-left: 0;
-					}
 
 			ul.divided
 			{
